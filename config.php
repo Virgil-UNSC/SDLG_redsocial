@@ -11,11 +11,11 @@
 // MySQL Hostname
 $sql_db_host = "localhost";
 // MySQL Database User
-$sql_db_user = "admin_datahive";
+$sql_db_user = "admin_1";
 // MySQL Database Password
-$sql_db_pass = "yIbdK1Ua5Z";
+$sql_db_pass = "--------";
 // MySQL Database Name
-$sql_db_name = "admin_tdlg";
+$sql_db_name = "admin";
 
 // Site URL
 $site_url = "https://tdlg.ml"; // e.g (http://example.com)
